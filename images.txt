@@ -9,3 +9,4 @@ node:18-alpine
 nginx:1.23.3-alpine
 openjdk:17-jdk-alpine
 library/amazoncorretto:17
+casbin/casdoor
