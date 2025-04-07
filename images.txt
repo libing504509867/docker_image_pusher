@@ -11,3 +11,4 @@ openjdk:17-jdk-alpine
 library/amazoncorretto:17
 casbin/casdoor
 gradle:8.8-jdk17
+python:3.8
