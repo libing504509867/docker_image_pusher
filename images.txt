@@ -24,3 +24,4 @@ bitnami/os-shell:12-debian-12-r35
 bitnami/os-shell:12-debian-12-r30
 bitnami/postgresql:16.4.0-debian-12-r14
 bitnami/postgres-exporter:0.15.0-debian-12-r43
+osixia/phpldapadmin:0.7.1
