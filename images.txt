@@ -28,5 +28,6 @@
 #caddy:2.8.4
 #bitnami/rabbitmq:3.10.20
 #bitnami/memcached-exporter:0.11.1
-bitnami/mariadb-galera:10.5.20
-bitnami/mysqld-exporter:0.14.0
+#bitnami/mariadb-galera:10.5.20
+#bitnami/mysqld-exporter:0.14.0
+bitnami/memcached:1.6.18
