@@ -31,4 +31,4 @@
 #bitnami/mariadb-galera:10.5.20
 #bitnami/mysqld-exporter:0.14.0
 #bitnami/memcached:1.6.18
-ghcr.io/hellt/openstack-client
+bitnami/redis:bitnami/redis
