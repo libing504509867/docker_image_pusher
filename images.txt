@@ -38,6 +38,8 @@
 #bitnami/prometheus:2.41.0-debian-11-r5
 #bitnami/prometheus-operator:0.62.0-debian-11-r0
 #bitnami/thanos:0.30.1-scratch-r0
-bitnami/alertmanager:0.25.0-debian-11-r4
-
+#bitnami/alertmanager:0.25.0-debian-11-r4
+--platform=linux/arm64 flashcatcloud/nightingale:6.7.3
+--platform=linux/arm64 gitlab/gitlab-ce:13.10.3
+--platform=linux/arm64 kestra/kestra
 
