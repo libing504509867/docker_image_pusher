@@ -40,5 +40,18 @@
 #bitnami/thanos:0.30.1-scratch-r0
 #bitnami/alertmanager:0.25.0-debian-11-r4
 #--platform=linux/arm64 flashcatcloud/nightingale:6.7.3
---platform=linux/arm64 kestra/kestra:v0.24.11
+#--platform=linux/arm64 kestra/kestra:v0.24.11
+goharbor/nginx-photon:v1.10.18
+goharbor/harbor-portal:v1.10.18
+goharbor/harbor-core:v1.10.18
+goharbor/harbor-jobservice:v1.10.18
+goharbor/registry-photon:v1.10.18
+goharbor/harbor-registryctl:v1.10.18
+goharbor/chartmuseum-photon:v1.10.18
+goharbor/clair-photon:v1.10.18
+goharbor/clair-adapter-photon:v1.10.18
+goharbor/notary-server-photon:v1.10.18
+goharbor/notary-signer-photon:v1.10.18
+goharbor/harbor-db:v1.10.18
+goharbor/redis-photon:v1.10.18
 
