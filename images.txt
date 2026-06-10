@@ -54,5 +54,6 @@
 #goharbor/notary-signer-photon:v1.10.18
 #goharbor/harbor-db:v1.10.18
 #goharbor/redis-photon:v1.10.18
-goharbor/prepare:v1.10.18
+#goharbor/prepare:v1.10.18
+goharbor/harbor-log:v1.10.18
 
